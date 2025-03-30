@@ -38,12 +38,10 @@ Update script.js to add custom functionality.
 Replace social media authentication links with actual API integration.
 
 📸 Screenshots
-
-Light Mode
-![Light mode](https://github.com/user-attachments/assets/1c327eae-cdac-45a9-9f01-b5917583dd49)
-
-Dark Mode
-![Dark mode](https://github.com/user-attachments/assets/4cd26fcd-c759-4d4f-8dba-2f84179dd808)
+ 
+| Light Mode | Dark Mode |  
+|------------|-----------|  
+| ![Light mode](https://github.com/user-attachments/assets/1c327eae-cdac-45a9-9f01-b5917583dd49) | ![Dark mode](https://github.com/user-attachments/assets/4cd26fcd-c759-4d4f-8dba-2f84179dd808) |  
 
 🤝 Contributing
 
