@@ -28,7 +28,7 @@ A beautiful, animated login and registration page with smooth transitions, dark 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/animated-login-form.git
+   git clone https://github.com/Raj-shukla-05/Animated-Login-Page.git
 2. Open index.html in your browser.
 
 🎨 Customization
