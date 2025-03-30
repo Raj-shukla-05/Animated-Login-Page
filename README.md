@@ -46,4 +46,5 @@ Dark Mode
 ![Dark mode](https://github.com/user-attachments/assets/4cd26fcd-c759-4d4f-8dba-2f84179dd808)
 
 🤝 Contributing
+
 Feel free to submit issues or pull requests! Contributions are always welcome.
